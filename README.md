@@ -1,6 +1,5 @@
 ### Hey, what's up? 👋 I'm Mateo Del Rio Usma
-#Novice Backend developer working and learning on Ruby on Rails
-
+Novice Backend developer working and learning on Ruby on Rails
 <!--
 **atlmetal/atlmetal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
