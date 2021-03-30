@@ -1,7 +1,7 @@
 ### Hey, what's up? 👋 I'm Mateo Del Rio Usma 
 Novice Backend developer working and learning on Ruby on Rails <img src="https://cdn.imgbin.com/11/22/4/imgbin-ruby-9qu6s2iP1gm6eX3SP0avNYdhH.jpg" width="40">
 
-Marketing Proffesional at <a href="https://udemedellin.edu.co/">Universidad de Medellín</a>
+Marketing Proffesional at <a href="https://udemedellin.edu.co/" target="_blank">Universidad de Medellín</a>
 
 <!--
 **atlmetal/atlmetal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
