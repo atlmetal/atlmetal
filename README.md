@@ -6,6 +6,14 @@ Novice Backend developer working and learning on Ruby on Rails <img src="https:/
 
 Marketing Proffesional at <a href="https://udemedellin.edu.co/" target="_blank" title="UdeM">Universidad de Medellín</a>
 
+### Connect with me:
+
+[<img align="left" alt="Mateo Del Rio usma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/mateo_delrio
+[linkedin]: https://www.linkedin.com/in/mateo-del-rio-usma/
+
 <!--
 **atlmetal/atlmetal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
