@@ -9,8 +9,8 @@ Marketing Proffesional at <a href="https://udemedellin.edu.co/" target="_blank" 
 <details>
 	<summary><b>GitHub Stats</b></summary>
 	<br/>
-	<img src="https://jf-gh-stats.vercel.app/api?username=estephaniacalvoc&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats" align="top"/>
-	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=estephaniacalvoc&layout=compact&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Top Languages" align="top"/>
+	<img src="https://jf-gh-stats.vercel.app/api?username=atlmetal&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats" align="top"/>
+	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=atlmetal&layout=compact&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Top Languages" align="top"/>
 </details>
 
 ### Connect with me:
