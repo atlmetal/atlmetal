@@ -7,6 +7,15 @@ Novice Backend developer working and learning on Ruby on Rails <img src="https:/
 Marketing Proffesional at <a href="https://udemedellin.edu.co/" target="_blank" title="UdeM">Universidad de Medellín</a>
 
 <details>
+	<summary><b>Technologies</b></summary>
+	<img src='https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white' alt='Ruby'/>
+	<img src='https://img.shields.io/badge/rails-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white' alt='Rails'/>
+	<img src='https://img.shields.io/badge/html5-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white' alt='HTML5'/>
+	<img src='https://img.shields.io/badge/css3-%233573b5.svg?&style=for-the-badge&logo=css3&logoColor=white' alt='CSS3'/>
+	<img src='https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white' alt='Git'/>
+</details>
+
+<details>
 	<summary><b>GitHub Stats</b></summary>
 	<br/>
 	<img src="https://jf-gh-stats.vercel.app/api?username=atlmetal&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats" align="top"/>
