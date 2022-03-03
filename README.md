@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atlmetal" alt="atlmetal" /> </p>
 
-Novice Backend developer working and learning on Ruby on Rails <img src="https://cdn.imgbin.com/11/22/4/imgbin-ruby-9qu6s2iP1gm6eX3SP0avNYdhH.jpg" width="40">
+Novice Backend developer learning and learning on Ruby on Rails <img src="https://cdn.imgbin.com/11/22/4/imgbin-ruby-9qu6s2iP1gm6eX3SP0avNYdhH.jpg" width="40">
 
 Marketing Proffesional at <a href="https://udemedellin.edu.co/" target="_blank" title="UdeM">Universidad de Medellín</a>
 
@@ -10,8 +10,6 @@ Marketing Proffesional at <a href="https://udemedellin.edu.co/" target="_blank" 
 	<summary><b>Technologies</b></summary>
 	<img src='https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white' alt='Ruby'/>
 	<img src='https://img.shields.io/badge/rails-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white' alt='Rails'/>
-	<img src='https://img.shields.io/badge/html5-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white' alt='HTML5'/>
-	<img src='https://img.shields.io/badge/css3-%233573b5.svg?&style=for-the-badge&logo=css3&logoColor=white' alt='CSS3'/>
 	<img src='https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white' alt='Git'/>
 </details>
 
