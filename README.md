@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atlmetal" alt="atlmetal" /> </p>
 
-Novice Backend developer working and learning on Ruby on Rails <img src="https://cdn.imgbin.com/11/22/4/imgbin-ruby-9qu6s2iP1gm6eX3SP0avNYdhH.jpg" width="40">
+Junior Backend developer working and learning on Ruby on Rails <img src="https://cdn.imgbin.com/11/22/4/imgbin-ruby-9qu6s2iP1gm6eX3SP0avNYdhH.jpg" width="40">
 
 Marketing Proffesional at <a href="https://udemedellin.edu.co/" target="_blank" title="UdeM">Universidad de Medellín</a>
 
