@@ -27,9 +27,9 @@ Marketing Proffesional at <a href="https://udemedellin.edu.co/" target="_blank" 
 [instagram]: https://www.instagram.com/mateo_delrio
 [linkedin]: https://www.linkedin.com/in/mateo-del-rio-usma/
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atlmetal&show_icons=true&locale=en&layout=compact" alt="vanessasot" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atlmetal&show_icons=true&locale=en&layout=compact" alt="atlmetal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atlmetal&show_icons=true&locale=en" alt="vanessasot" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atlmetal&show_icons=true&locale=en" alt="atlmetal" /></p>
 
 <!--
 **atlmetal/atlmetal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
