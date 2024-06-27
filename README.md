@@ -6,6 +6,8 @@ Ruby Backend developer working and learning on Ruby on Rails <img src="https://c
 
 Marketing Proffesional at <a href="https://udemedellin.edu.co/" target="_blank" title="UdeM">Universidad de Medellín</a>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atlmetal&show_icons=true&locale=en&layout=compact" alt="atlmetal" /></p>
+
 <details>
 	<summary><b>Technologies</b></summary>
 	<img src='https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white' alt='Ruby'/>
@@ -27,9 +29,7 @@ Marketing Proffesional at <a href="https://udemedellin.edu.co/" target="_blank" 
 [instagram]: https://www.instagram.com/mateo_delrio
 [linkedin]: https://www.linkedin.com/in/mateo-del-rio-usma/
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atlmetal&show_icons=true&locale=en&layout=compact" alt="atlmetal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atlmetal&show_icons=true&locale=en" alt="atlmetal" /></p>
 
 <!--
 **atlmetal/atlmetal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
