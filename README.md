@@ -19,6 +19,8 @@ Marketing Proffesional at <a href="https://udemedellin.edu.co/" target="_blank" 
 	<img src="https://jf-gh-stats.vercel.app/api?username=atlmetal&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats" align="top"/>
 </details>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atlmetal&show_icons=true&locale=en&layout=compact" alt="vanessasot" /></p>
+
 ### Connect with me:
 
 [<img align="left" alt="Mateo Del Rio usma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
