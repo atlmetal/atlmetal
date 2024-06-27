@@ -19,8 +19,6 @@ Marketing Proffesional at <a href="https://udemedellin.edu.co/" target="_blank" 
 	<img src="https://jf-gh-stats.vercel.app/api?username=atlmetal&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats" align="top"/>
 </details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atlmetal&show_icons=true&locale=en&layout=compact" alt="vanessasot" /></p>
-
 ### Connect with me:
 
 [<img align="left" alt="Mateo Del Rio usma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -28,6 +26,10 @@ Marketing Proffesional at <a href="https://udemedellin.edu.co/" target="_blank" 
 
 [instagram]: https://www.instagram.com/mateo_delrio
 [linkedin]: https://www.linkedin.com/in/mateo-del-rio-usma/
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atlmetal&show_icons=true&locale=en&layout=compact" alt="vanessasot" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atlmetal&show_icons=true&locale=en" alt="vanessasot" /></p>
 
 <!--
 **atlmetal/atlmetal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
