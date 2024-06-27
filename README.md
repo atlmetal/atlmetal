@@ -6,7 +6,7 @@ Ruby Backend developer working and learning on Ruby on Rails <img src="https://c
 
 Marketing Proffesional at <a href="https://udemedellin.edu.co/" target="_blank" title="UdeM">Universidad de Medellín</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atlmetal&show_icons=true&locale=en&layout=compact" alt="atlmetal" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atlmetal&show_icons=true&locale=en&layout=compact" alt="atlmetal" />
 
 <details>
 	<summary><b>Technologies</b></summary>
