@@ -6,19 +6,9 @@ Ruby Backend developer working and learning on Ruby on Rails <img src="https://c
 
 Marketing Proffesional at <a href="https://udemedellin.edu.co/" target="_blank" title="UdeM">Universidad de Medellín</a>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atlmetal&show_icons=true&locale=en&layout=compact" alt="atlmetal" />
-
 <details>
 	<summary><b>Technologies</b></summary>
-	<img src='https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white' alt='Ruby'/>
-	<img src='https://img.shields.io/badge/rails-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white' alt='Rails'/>
-	<img src='https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white' alt='Git'/>
-</details>
-
-<details>
-	<summary><b>GitHub Stats</b></summary>
-	<br/>
-	<img src="https://jf-gh-stats.vercel.app/api?username=atlmetal&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats" align="top"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=atlmetal&show_icons=true&locale=en&layout=compact" alt="atlmetal" />
 </details>
 
 ### Connect with me:
@@ -45,3 +35,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
