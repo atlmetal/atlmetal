@@ -8,6 +8,8 @@ Ruby Backend developer working and learning on Ruby on Rails <img src="https://c
 
 Marketing Bachelor at <a href="https://udemedellin.edu.co/" target="_blank" title="UdeM">Universidad de Medellín</a>
 
+![atlmetal's GitHub stats](https://github-readme-stats.vercel.app/api?username=atlmetal&show_icons=true&theme=radical)
+
 <details>
 	<summary><b>Technologies</b></summary>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=atlmetal&show_icons=true&locale=en&layout=compact" alt="atlmetal" />
