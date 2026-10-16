@@ -19,6 +19,26 @@
 - 🎓 Master's in Software Engineering (in progress) and a bachelor's in Marketing, both at Universidad de Medellín.
 - 🌎 English (C1) and Spanish (native). Medellín, Colombia (UTC-5).
 
+## Featured project: Gym Membership Manager
+
+Front desk software for small gyms in Colombia, which I built on my own with Rails 8.1 and PostgreSQL 17. It handles members identified by their ID documents, plans and session packs, memberships with freezes, payments, check-in by document number, and an access reader at the door. It's deployed to production.
+
+<p align="center">
+  <img src="assets/gym-membership-manager/demo.gif" width="280" alt="The front desk on a phone: a member with visits left checks in, one whose plan expired is offered a renewal, and the simulated reader opens for an active member and stays closed for a frozen one">
+</p>
+
+- **Multitenancy**: several gyms share one installation, each with its own staff, roles and settings. acts_as_tenant scopes every query to the current gym, and Pundit authorizes every action.
+- **Rules the database enforces**: PostgreSQL exclusion constraints stop overlapping memberships and freezes, even when two sales race, and a partial unique index lets a pack spend one visit a day at most.
+- **Privacy by design**: under Colombian Law 1581, biometric data never reaches the app. The reader keeps the fingerprints, and the app only sends it which member IDs may enter and until when, through an `AccessGateway` a real device plugs into.
+- **Operations**: deployed with Kamal to a VPS over HTTPS, with nightly backups to Cloudflare R2, a restore I've tested, and errors, uptime and backups watched in Sentry.
+- **Tests**: nearly 900 RSpec examples, with Capybara system specs at phone width, run in GitHub Actions along with RuboCop and Brakeman.
+
+| Member page | Expirations | Simulated reader |
+|---|---|---|
+| ![A member's page: a frozen month and a renewal the freeze pushed back](assets/gym-membership-manager/member.png) | ![Members ending soon, with their phone, plan and end date](assets/gym-membership-manager/expirations.png) | ![The simulated reader stays closed for a frozen member, and the app records the attempt as frozen](assets/gym-membership-manager/reader.png) |
+
+The code is private. If you'd like to read it, [write to me on LinkedIn](https://www.linkedin.com/in/mateo-del-rio-usma/) and I'll share it with you.
+
 ## Tech stack
 
 ![Ruby, Rails, PostgreSQL, Redis, JavaScript, Git and Linux](https://skillicons.dev/icons?i=ruby,rails,postgres,redis,js,git,linux)
