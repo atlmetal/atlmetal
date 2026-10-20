@@ -49,15 +49,15 @@ Accounting for small tailoring shops in Colombia, each run by one person who has
   <img src="assets/tailor-shop-ledger/demo.gif" width="280" alt="Today on a phone: $32,400 made of the $44,074 the fixed costs need today. A zipper replacement that leaves $12,200 is recorded, and the tape measure fills: the day's fixed costs are covered, and $526 more">
 </p>
 
-- **The accounting rules are the product**: materials count once, inside each job; fixed costs spread over the days the shop works, so the day the rent is paid doesn't show a loss; and an order paid in parts counts each payment the day it arrives.
+- **The accounting rules are the product**: materials count once, inside each job; fixed costs spread over the days the shop works, so the day the rent is paid doesn't show a loss; an order paid in parts counts each payment the day it arrives; and what a customer pays up front never counts, only each job drawn on it, the day it's done.
 - **Multitenancy**: shops share one installation, scoped by acts_as_tenant with `require_tenant`. There are no roles: isolation is the authorization, and every controller that touches a shop's records has request specs proving another shop gets a 404.
 - **Clean layers**: business rules in service objects; a period's results and what customers still owe in Arel query objects, with `FILTER` clauses and correlated subqueries; and a facade for each page that gathers data from several places.
 - **Phone first**: a tape measure design in Tailwind with self-hosted fonts, money fields that format pesos as you type, and an installable PWA, with two small Stimulus controllers and no Node.
-- **Operations and tests**: deployed with Kamal next to the gym app on one VPS, with nightly backups to Cloudflare R2, a restore I've tested, Healthchecks.io and Sentry; 676 RSpec examples, with system specs at phone width, in GitHub Actions along with RuboCop and Brakeman.
+- **Operations and tests**: deployed with Kamal next to the gym app on one VPS, with nightly backups to Cloudflare R2, a restore I've tested, Healthchecks.io and Sentry; 857 RSpec examples, with system specs at phone width, in GitHub Actions along with RuboCop and Brakeman.
 
 | Reports | An order paid in parts | Fixed costs and work days |
 |---|---|---|
-| ![October so far: a profit of $472,741, and how it's calculated line by line](assets/tailor-shop-ledger/reports.png) | ![An order that owes $19,000 of $39,000, with its jobs and the deposit already paid](assets/tailor-shop-ledger/order.png) | ![The month's fixed costs spread over 27 work days: each day must cover $44,074, the goal shown on Today](assets/tailor-shop-ledger/fixed-costs.png) |
+| ![October so far: a profit of $827,441, and how it's calculated line by line](assets/tailor-shop-ledger/reports.png) | ![An order that owes $19,000 of $39,000, with its jobs and the deposit already paid](assets/tailor-shop-ledger/order.png) | ![The month's fixed costs spread over 27 work days: each day must cover $44,074, the goal shown on Today](assets/tailor-shop-ledger/fixed-costs.png) |
 
 The code is on GitHub: [atlmetal/tailor-shop-ledger](https://github.com/atlmetal/tailor-shop-ledger).
 
